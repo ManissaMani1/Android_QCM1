@@ -1,8 +1,8 @@
 ﻿# Android_QCM
-mon deuxieme essaye
-Cette application est un constituer de cinque interfaces qui affiche des differentes question avec des suggestions.
+Cette application est un constituer de cinque interfaces qui affiche de differentes questions avec trois suggestions.
 # Comment ça marche ?
-une fois l'application lancer, l'utilisateur vera la premiére question, avec le choix des reponses.
-Une fois qu'il a choisie une réponse il dois 
+une fois l'application lancée,la premiére question s'affiche, avec les trois choix de reponses.
+Une fois la réponse choisie, l'utulisateur cliquera sur le bouton suivant pour répondre à la question suivante.
+En répondant à la dernière question et cliquer sur le bouton suivant le score s'affichera.
 # lES INTERFACES
-l'application est composer de cinq activités qui comportent des 
+l'application est composée de cinq activités qui comportent des questions avec trois choix de réponses et le bouton suivant  
